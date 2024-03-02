@@ -1,0 +1,16 @@
+.idea
+.env
+.env*
+!.env.example
+
+node_modules
+yarn.lock
+dist
+.npmrc
+
+# src/config/index.ts
+typechain
+
+# misc
+.DS_Store
+*.pem
